@@ -1,6 +1,8 @@
 img {
 	border: 5px solid #000;
 	padding: 3px;
+	float: left;
+	margin: 15px;
 }
 .home-buttons {
 	background-color: #B4B4B4;
