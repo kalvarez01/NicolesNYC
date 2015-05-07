@@ -2,9 +2,34 @@ img {
 	border: 5px solid #000;
 	padding: 3px;
 }
+.home-buttons {
+	background-color: #B4B4B4;
+	width: 16%;
+}
 p {
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
 	font-family: Arial, Helvetica, sans-serif;
+}
+.fall-button {
+	background-color: #999;
+}
+.winter-button {
+	background-color: #B4B4B4;
+}
+.spring-button {
+	background-color: #999;
+}
+.summer-button {
+	background-color: #B4B4B4;
+}
+.lookbook-button {
+	background-color: #999;
+}
+.content-area {
+	background-color: #FFF;
+}
+.secondary-nav {
+	background-color: #999;
 }
